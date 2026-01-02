@@ -178,11 +178,17 @@ Once you have a development environment set up, you can start building packages,
 See the [Developers HOW TO] for information on how to use spksrc.
 
 
+## Documentation
+For a comprehensive understanding of how spksrc works internally, see:
+* [ARCHITECTURE.md] - Detailed explanation of the repository structure, build system, package creation process, and configuration settings
+
+
 ## License
 When not explicitly set, files are placed under a [3 clause BSD license]
 
 [3 clause BSD license]: http://www.opensource.org/licenses/BSD-3-Clause
 [#4524]: https://github.com/SynoCommunity/spksrc/issues/4524
+[ARCHITECTURE.md]: https://github.com/SynoCommunity/spksrc/blob/master/ARCHITECTURE.md
 [bug tracker]: https://github.com/SynoCommunity/spksrc/issues
 [CONTRIBUTING]: https://github.com/SynoCommunity/spksrc/blob/master/CONTRIBUTING.md
 [Fork and clone]: https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
